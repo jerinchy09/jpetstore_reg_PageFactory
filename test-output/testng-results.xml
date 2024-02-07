@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T22:23:17 EST" name="Default suite" finished-at="2024-02-06T22:23:31 EST" duration-ms="13543">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T22:23:17 EST" name="Default test" finished-at="2024-02-06T22:23:31 EST" duration-ms="13543">
+      <class name="jpetstore_reg_PgFact.jpetStore_reg_PageFactory.AppTest">
+        <test-method signature="application(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:jpetstore_reg_PgFact.jpetStore_reg_PageFactory.AppTest@1613674b]" started-at="2024-02-06T22:23:17 EST" name="application" data-provider="Invalid_accountInfo" finished-at="2024-02-06T22:23:31 EST" duration-ms="13458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tas]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NC,Usa]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[CLT]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[NC]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[public void jpetstore_reg_PgFact.jpetStore_reg_PageFactory.AppTest.application(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- application -->
+      </class> <!-- jpetstore_reg_PgFact.jpetStore_reg_PageFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
